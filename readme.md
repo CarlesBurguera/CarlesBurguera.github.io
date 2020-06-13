@@ -26,6 +26,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
+
+
+
+
 **Resolución:** 600x400px 
 
 **Probado en:**  Google Chrome 
@@ -41,14 +45,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://carlesburguera.github.io/
 
 
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+El proyecto se juega en primera persona, el jugador se encarna en el último superviviente del mundo y necesita el antídoto para sobrevivir. Es un viaje por el edificio del hospital donde se tendrán que recorrer las diversas puertas y se encontrarán pistas en cada una de ellas (números secretos, llaves...) que nos ayudarán a resolver el enigma final (un código de cuatro dígitos que abre la puerta del laboratorio donde se encuentra el antídoto). 
 
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -81,13 +83,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque te ayuda a  
+Este  proyecto es interesante porque te ayuda a mejorar tu memoria a corto plazo y tu capacidad de decisión. Además, te sumerge en una aventura cuanto menos inquietante
 
 
 
 **Publico / audiencia**
 
-- Orientado a niños y jóvenes 
+- Orientado a niños 
 
 
 
