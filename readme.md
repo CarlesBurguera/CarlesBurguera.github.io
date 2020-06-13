@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## El antídoto
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,15 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El antídoto 
 
-**Web:**   (url github.io)
+**Web:**   https://carlesburguera.github.io/
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Carles Burguera Campillo
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto sumerge al jugador en una batalla entre la vida y la muerte, el mundo está infectado por un hongo que altera la razón y los sentidos y a sus infectados los vuelve esclavos, la única solución es encontrar el antídoto escondido en un hospital de chicago. No será un viaje fácil, el jugador tendrá que superar ciertas pruebas memorísticas y de velocidad, y evitar la muerte entrando en habitaciones sospechosas. 
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Escape Room
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -30,16 +30,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 13/06/2020
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://carlesburguera.github.io/
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
