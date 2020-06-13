@@ -14,19 +14,23 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Carles Burguera Campillo
 
-**Resumen** : Este proyecto sumerge al jugador en una batalla entre la vida y la muerte, el mundo está infectado por un hongo que altera la razón y los sentidos y a sus infectados los vuelve esclavos, la única solución es encontrar el antídoto escondido en un hospital de chicago. No será un viaje fácil, el jugador tendrá que superar ciertas pruebas memorísticas y de velocidad, y evitar la muerte entrando en habitaciones sospechosas. 
+**Resumen** : Este proyecto sumerge al jugador en una batalla entre la vida y la muerte, el mundo está infectado por un hongo que altera la razón y los sentidos y vuelve esclavos a sus infectados, la única solución es encontrar el antídoto escondido en un hospital de chicago. No será un viaje fácil, el jugador tendrá que superar ciertas pruebas memorísticas y de velocidad, y evitar la muerte entrando en habitaciones donde pueda haber algún infectado. 
 
 **Estilo/género:**  Escape Room
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
-**Tamaño proyecto:** 14MB 
+
+
+
+**Resolución:** 600x400px 
+
+**Probado en:**  Google Chrome 
+
+**Tamaño proyecto:** 23.4 MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -77,13 +81,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te ayuda a  
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a niños y jóvenes 
 
 
 
@@ -103,11 +107,15 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Quizá los problemas que se plantean son demasiado obvios y fáciles de resolver. Está planteado para niños porque un público de mayor edad puede encontrar los puzzles muy fáciles de resolver.
 
 
 
 # 4. Conclusiones 
+
+Particularmente no me he sentido cómodo trabajando con hippani. Creo que es una aplicación 
+
+Si siguiera desarrollándome en aplicaciones como hippani animator, creo que intentaría mejorar la complejidad de los juegos, y ahora que tengo más facilidad para comprender cómo funciona la aplicación intentaría crear un juego más completo y a la vez más entretenido, incluso podría intervenir con imágenes, figuras y obras creadas por mí, realizando una obra propiamente mía.
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
@@ -132,7 +140,7 @@ Este  proyecto es interesante porque ...
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Photoshop
 
 
 
