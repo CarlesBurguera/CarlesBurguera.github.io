@@ -20,12 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : 
 
-
-
-
-
-
-
+https://w7.pngwing.com/pngs/329/979/png-transparent-wikipedia-medicine-medical-encyclopedia-kiwix-appbrain-extension-text-logo-medicine.png
 
 
 
