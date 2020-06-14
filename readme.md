@@ -22,8 +22,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ![El antídoto](https://github.com/CarlesBurguera/CarlesBurguera.github.io/blob/master/logo5.png)
 
-
-
 **Resolución:** 600x400px 
 
 **Probado en:**  Google Chrome 
@@ -46,13 +44,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 El proyecto se juega en primera persona, el jugador se encarna en el último superviviente del mundo y necesita el antídoto para sobrevivir. Es un viaje por el edificio del hospital donde se tendrán que recorrer las diversas puertas y se encontrarán pistas en cada una de ellas (números secretos, llaves...) que nos ayudarán a resolver el enigma final (un código de cuatro dígitos que abre la puerta del laboratorio donde se encuentra el antídoto). 
 
 
-
-
 ### 2.2. Esquema de navegación 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+
 
 
 
