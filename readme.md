@@ -51,11 +51,6 @@ El proyecto se juega en primera persona, el jugador se encarna en el último sup
 
 
 
-
-
-
-
-
 # 3. Metodología
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
