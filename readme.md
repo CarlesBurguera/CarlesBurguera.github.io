@@ -47,7 +47,7 @@ El proyecto se juega en primera persona, el jugador se encarna en el último sup
 ### 2.2. Esquema de navegación 
 
 
-
+!(https://github.com/CarlesBurguera/CarlesBurguera.github.io/blob/master/Sin%20t%C3%ADtulo.png)
 
 
 
