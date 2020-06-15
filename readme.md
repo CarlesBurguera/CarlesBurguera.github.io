@@ -68,7 +68,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque te ayuda a mejorar tu memoria a corto plazo y tu capacidad de decisión. Además, te sumerge en una aventura cuanto menos inquietante
+Este  proyecto es interesante porque ayuda a mejorar la memoria a corto plazo y la capacidad de decisión. Además, el jugador se verá envuelto en un ambiente peligroso y hostil que pronto le sumergirá en una aventura cuanto menos inquietante. 
 
 
 
@@ -77,39 +77,27 @@ Este  proyecto es interesante porque te ayuda a mejorar tu memoria a corto plazo
 - Orientado a niños 
 
 
-
-
-
 ### Etapa 2: Desarrollo / actividades realizadas
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
-- Video 
+- Video
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-Quizá los problemas que se plantean son demasiado obvios y fáciles de resolver. Está planteado para niños porque un público de mayor edad puede encontrar los puzzles muy fáciles de resolver.
-
+Quizá los problemas que he planteado son demasiado obvios. Está planteado para niños porque un público de mayor edad puede encontrar los puzzles muy fáciles de resolver.
 
 
 # 4. Conclusiones 
 
-Particularmente no me he sentido cómodo trabajando con hippani. Creo que es una aplicación 
+Particularmente no me he sentido cómodo trabajando con hippani, creo que es una aplicación que puede resultar complicada para alguien que no haya realizado ninguna actividad relacionada con la programación. Incluso, pienso que hippani en ocasiones falla, y que uno puede pensar que algo no está haciendo bien, cuando el problema es de la aplicación. Sin embargo, también pienso que hippani es una forma directa de materializar ideas y hacer posible las interacciones entre artista y espectador.
 
 Si siguiera desarrollándome en aplicaciones como hippani animator, creo que intentaría mejorar la complejidad de los juegos, y ahora que tengo más facilidad para comprender cómo funciona la aplicación intentaría crear un juego más completo y a la vez más entretenido, incluso podría intervenir con imágenes, figuras y obras creadas por mí, realizando una obra propiamente mía.
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
 
 
 # 5 Referencias 
@@ -120,9 +108,9 @@ Si siguiera desarrollándome en aplicaciones como hippani animator, creo que int
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  "How to disappear completely - Seraphim"
+* Imágenes:  Extraídas de internet
+* Tipografía: Courier New
 
 **Herramientas utilizadas**
 
@@ -130,8 +118,7 @@ Si siguiera desarrollándome en aplicaciones como hippani animator, creo que int
 - Photoshop
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![Licencia](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 
 https://creativecommons.org/licenses/?lang=es
 
