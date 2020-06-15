@@ -77,12 +77,11 @@ Este  proyecto es interesante porque ayuda a mejorar la memoria a corto plazo y 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
+- Juego. El jugador tendrá que recordar los cuatro números que le ayudarán a resolver el código final, además de navegar libremente por el espacio planteado. 
+- Video. Situados en la galería de fotos y videos y ayudan al jugador a entrar en el ambiente. 
+- Menús y elementos de navegación (botones). Con un diseño antiguo y formal para identificarse con un hospital abandonado.
+- Música.
 
 
 
